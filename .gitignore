@@ -1,0 +1,7 @@
+.DS_Store
+
+# LaTex Generated
+*.log
+*.fls
+*.fdb_latexmk
+*.aux
